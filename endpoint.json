@@ -1,19 +1,19 @@
 {
-  "version": "1.1.1",
+  "version": "1.2.0",
   "notes": "",
-  "pub_date": "2023-08-03T21:43:49.075Z",
+  "pub_date": "2024-01-03T20:17:57.350Z",
   "platforms": {
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSmdVV2ZXYW0xWHR0T0x1Z1BrYnNjYlV2K3Q1cmZtbFBPYlVBV2lDTU5hT3pYczhva0ZyZFpnMkxKbjY2YlEzV25tcmg5d2xGS21VcXg0TVQzRVNpQUlaTG03NG5XalFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjkxMDk4OTA3CWZpbGU6QmxhY2sgUGVhcmwgT3JpZ2luLmFwcC50YXIuZ3oKRVJRSHJPYUplVVk5UCtxSDNuaVJTWUN2V05lT3ZGWUk3bHloLzB5NU15QmxXZ0dVOGo5NnZhalA0bks0MFMzM0lLREpibmpzMDhkelRuZVZMV0FVQkE9PQo=",
-      "url": "https://github.com/Brisolo32/blackpearlorigin/releases/latest/download/Black.Pearl.Origin_x64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSmdVV2ZXYW0xWGd2WWJOa2hTMzA0Q1JnQ3FLcDNYeGVDVDdKQW80TFE0RVZJRGVQMlpacEFJL0VNTnJIWjF6enFQMDI5RjlsU3JiVWVjSVV2OXRNQVdVeTFqK00zcEFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzA0MzEyOTA2CWZpbGU6QmxhY2sgUGVhcmwgT3JpZ2luLmFwcC50YXIuZ3oKT29lNFJNNnB2V1dJWkk0eFlWUzZIVjlBUm90SWJWWTRGeXZYaldnbGZPeEFRdWh3Y0t0ZU5PTkE3VEl2alZxV2N6eHBqWStMdTB2RklsYWp3R29MQXc9PQo=",
+      "url": "https://github.com/BlackPearlOrigin/blackpearlorigin/releases/latest/download/Black.Pearl.Origin_x64.app.tar.gz"
     },
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSmdVV2ZXYW0xWHJ3OG9iWmQrdzBQR1owWTQzZHNtaHdkUGJGMEZ3WEpzN3NGdWlQaTVPcWVBWFZ4dThmK3E3TlowTy82WFN0bzZxd0NHVis2RFNLS205NjZHREN2SEFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjkxMDk4OTkxCWZpbGU6YmxhY2stcGVhcmwtb3JpZ2luXzEuMS4xX2FtZDY0LkFwcEltYWdlLnRhci5negpVY25TVGJ1M1BHUCtQeDhEWU10ZHRyMWdvdDd2WlBESlhTalhOUmtvYVJNWFNwRFJtb25wbjJGemEwY2dwL3hjZkF3dGEyMHBYRXdRdng3a1UxdU5Cdz09Cg==",
-      "url": "https://github.com/Brisolo32/blackpearlorigin/releases/latest/download/black-pearl-origin_1.1.1_amd64.AppImage.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSmdVV2ZXYW0xWHE2VTkwa0FvWWZ4WFhqeUZJL3BuYTQ5TEdsSHpTL3Z0ZmtDbWx2aThpUW9FcFBVejhGdmp4Q1ZoVkRvbzJHN212aWZaeG9RcUk2WkM5bHZ4NEFkbGdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzA0MzEyOTExCWZpbGU6YmxhY2stcGVhcmwtb3JpZ2luXzEuMi4wX2FtZDY0LkFwcEltYWdlLnRhci5nego3NXFqZFAxbExVd0RybVgvSUV0ZDkwek1MRm5BOWtuRGV0RUZiV3hvYTlSS2M0VjE3bEd2Q0gybDhUbHRBZUpZYUx1YmE1OUNPcHA2bjZZY241WHlBUT09Cg==",
+      "url": "https://github.com/BlackPearlOrigin/blackpearlorigin/releases/latest/download/black-pearl-origin_1.2.0_amd64.AppImage.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSmdVV2ZXYW0xWGluZWtGbkY5bFhyelBIY0ZQSkRrUElCQldrWVFqak1lSm82b1JoT3gvMFcxVjc4ZEJ3MjZINkZISVl2ejQ4VUwwSVM1eUJ0WWkyTnJ6ZFkxUnhGYUFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjkxMDk5MDI1CWZpbGU6QmxhY2sgUGVhcmwgT3JpZ2luXzEuMS4xX3g2NF9lbi1VUy5tc2kuemlwClQ4SlZ2WjU1dFgwcUcyYkhsTlVwVXNLY0RRMXc1OXdGcEphSzhmSWZmWndSaS9zT0VOWXZhdFZsd3hBNGtaV3lWbG90ejBBQ1BYeDI2c25ZcmFtdkJ3PT0K",
-      "url": "https://github.com/Brisolo32/blackpearlorigin/releases/latest/download/Black.Pearl.Origin_1.1.1_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSmdVV2ZXYW0xWG1jVjFtRmJGeXFkTEY4V2hNVThlTml3L1Fkdi9Db0pRcnVHTGtaYmxWRkdvMHJqYmYwdVpKV2Z5dk1QeHNCTkY3aHBuOVZtQVBYbmR2bFZuUWdIRGdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzA0MzEzMDc0CWZpbGU6QmxhY2sgUGVhcmwgT3JpZ2luXzEuMi4wX3g2NF9lbi1VUy5tc2kuemlwCmJUczJJd1h4OUFVdlJSSXBjRFlyQ0hjd2xYMzZkenV3dllGc1paV2V1TGtZOFZudzBqWnVOSmhGNlpiSy8vN1hadGhiaHRJV0piQ21yd1dwTW5SZ0FRPT0K",
+      "url": "https://github.com/BlackPearlOrigin/blackpearlorigin/releases/latest/download/Black.Pearl.Origin_1.2.0_x64_en-US.msi.zip"
     }
   }
 }
